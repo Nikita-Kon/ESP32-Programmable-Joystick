@@ -1,7 +1,7 @@
 # ESP32-Programmable-Joystick
 
 Simple example for programmable joystick based on **ESP32-C3 SuperMini**.
-https://nikitak.dev/wp-admin/post.php?post=1390&action=elementor
+Project: https://nikitak.dev/project/esp32-joystick/
 
 ## Features
 - 4 buttons using input pull-up
